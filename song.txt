@@ -40,4 +40,8 @@ Give me a low five
 I'm a low five downsize no-one else
 Do you love yourself?
 test test
+<<<<<<< HEAD
 test1
+=======
+flaik
+>>>>>>> 66a15d7f24f9ccf197ced2d608ebdc62716ec275
