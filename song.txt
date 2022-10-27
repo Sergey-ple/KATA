@@ -45,4 +45,8 @@ test1
 =======
 flaik
 >>>>>>> 66a15d7f24f9ccf197ced2d608ebdc62716ec275
+<<<<<<< HEAD
 www
+=======
+qqq
+>>>>>>> 1656f58edc2ce6cb8e7f9f7b568c04b6c00c5201
